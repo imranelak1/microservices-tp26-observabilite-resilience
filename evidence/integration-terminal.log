@@ -1,0 +1,12 @@
+{"method": "GET", "port": 18026, "path": "/actuator/health/readiness", "status": 200, "response": {"status": "UP"}}
+{"method": "GET", "port": 18126, "path": "/actuator/health/readiness", "status": 200, "response": {"status": "UP"}}
+{"method": "GET", "port": 18226, "path": "/actuator/health/readiness", "status": 200, "response": {"status": "UP"}}
+{"method": "GET", "port": 18026, "path": "/api/debug/instance", "status": 200, "response": {"internalPort": 8081, "instance": "90f10c71df7e"}}
+{"method": "GET", "port": 18126, "path": "/api/debug/instance", "status": 200, "response": {"internalPort": 8081, "instance": "ffdf4889e01c"}}
+{"method": "GET", "port": 18226, "path": "/api/debug/instance", "status": 200, "response": {"instance": "364316c636cc", "internalPort": 8081}}
+{"method": "POST", "port": 18026, "path": "/api/books", "status": 201, "response": {"id": 1, "title": "Charge-f4171022", "author": "Imrane", "stock": 10}}
+{"method": "GET", "port": 18126, "path": "/api/books", "status": 200, "response": [{"id": 1, "title": "Charge-f4171022", "author": "Imrane", "stock": 10}]}
+{"method": "GET", "port": 18226, "path": "/api/books", "status": 200, "response": [{"id": 1, "title": "Charge-f4171022", "author": "Imrane", "stock": 10}]}
+REAL HTTP LOAD {"requests": 50, "success": 10, "conflict": 40, "other": 0, "success_bodies": [{"id": 1, "title": "Charge-f4171022", "stockLeft": 9, "price": 55.0}, {"id": 1, "title": "Charge-f4171022", "stockLeft": 7, "price": 55.0}]}
+{"method": "GET", "port": 18026, "path": "/api/books", "status": 200, "response": [{"id": 1, "title": "Charge-f4171022", "author": "Imrane", "stock": 0}]}
+VALIDATION: 3 JVM, 50 actual concurrent HTTP requests, 10 successes, 40 conflicts, final stock=0.

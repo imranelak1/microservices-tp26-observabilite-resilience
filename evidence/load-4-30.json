@@ -1,0 +1,462 @@
+{
+  "summary": {
+    "requests": 30,
+    "success": 30,
+    "conflict": 0,
+    "other": 0,
+    "success_bodies": [
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 29,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 25,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 23,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 28,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 26,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 27,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 22,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 24,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 21,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 16,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 17,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 18,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 15,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 19,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 9,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 20,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 8,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 11,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 5,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 12,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 3,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 6,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 0,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 13,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 4,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 14,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 10,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 7,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 1,
+        "price": 0.0
+      },
+      {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 2,
+        "price": 0.0
+      }
+    ]
+  },
+  "responses": [
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 29,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 25,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 23,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 28,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 26,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 27,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 22,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 24,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 21,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 16,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 17,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 18,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 15,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 19,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 9,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 20,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 8,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 11,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 5,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 12,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 3,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 6,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 0,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 13,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 4,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 14,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 10,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 7,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 1,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 4,
+        "title": "Metrics-3733c9d4",
+        "stockLeft": 2,
+        "price": 0.0
+      }
+    }
+  ]
+}

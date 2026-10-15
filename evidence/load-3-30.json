@@ -1,0 +1,282 @@
+{
+  "summary": {
+    "requests": 30,
+    "success": 10,
+    "conflict": 20,
+    "other": 0,
+    "success_bodies": [
+      {
+        "id": 3,
+        "title": "Fallback-3733c9d4",
+        "stockLeft": 8,
+        "price": 0.0
+      },
+      {
+        "id": 3,
+        "title": "Fallback-3733c9d4",
+        "stockLeft": 9,
+        "price": 0.0
+      },
+      {
+        "id": 3,
+        "title": "Fallback-3733c9d4",
+        "stockLeft": 0,
+        "price": 0.0
+      },
+      {
+        "id": 3,
+        "title": "Fallback-3733c9d4",
+        "stockLeft": 1,
+        "price": 0.0
+      },
+      {
+        "id": 3,
+        "title": "Fallback-3733c9d4",
+        "stockLeft": 5,
+        "price": 0.0
+      },
+      {
+        "id": 3,
+        "title": "Fallback-3733c9d4",
+        "stockLeft": 3,
+        "price": 0.0
+      },
+      {
+        "id": 3,
+        "title": "Fallback-3733c9d4",
+        "stockLeft": 6,
+        "price": 0.0
+      },
+      {
+        "id": 3,
+        "title": "Fallback-3733c9d4",
+        "stockLeft": 2,
+        "price": 0.0
+      },
+      {
+        "id": 3,
+        "title": "Fallback-3733c9d4",
+        "stockLeft": 7,
+        "price": 0.0
+      },
+      {
+        "id": 3,
+        "title": "Fallback-3733c9d4",
+        "stockLeft": 4,
+        "price": 0.0
+      }
+    ]
+  },
+  "responses": [
+    {
+      "status": 200,
+      "body": {
+        "id": 3,
+        "title": "Fallback-3733c9d4",
+        "stockLeft": 8,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 3,
+        "title": "Fallback-3733c9d4",
+        "stockLeft": 9,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 3,
+        "title": "Fallback-3733c9d4",
+        "stockLeft": 0,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 3,
+        "title": "Fallback-3733c9d4",
+        "stockLeft": 1,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 3,
+        "title": "Fallback-3733c9d4",
+        "stockLeft": 5,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 3,
+        "title": "Fallback-3733c9d4",
+        "stockLeft": 3,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 3,
+        "title": "Fallback-3733c9d4",
+        "stockLeft": 6,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 3,
+        "title": "Fallback-3733c9d4",
+        "stockLeft": 2,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 3,
+        "title": "Fallback-3733c9d4",
+        "stockLeft": 7,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 3,
+        "title": "Fallback-3733c9d4",
+        "stockLeft": 4,
+        "price": 0.0
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "summary": {
+    "requests": 50,
+    "success": 10,
+    "conflict": 40,
+    "other": 0,
+    "success_bodies": [
+      {
+        "id": 1,
+        "title": "Charge-f4171022",
+        "stockLeft": 9,
+        "price": 55.0
+      },
+      {
+        "id": 1,
+        "title": "Charge-f4171022",
+        "stockLeft": 7,
+        "price": 55.0
+      },
+      {
+        "id": 1,
+        "title": "Charge-f4171022",
+        "stockLeft": 4,
+        "price": 55.0
+      },
+      {
+        "id": 1,
+        "title": "Charge-f4171022",
+        "stockLeft": 8,
+        "price": 55.0
+      },
+      {
+        "id": 1,
+        "title": "Charge-f4171022",
+        "stockLeft": 5,
+        "price": 55.0
+      },
+      {
+        "id": 1,
+        "title": "Charge-f4171022",
+        "stockLeft": 6,
+        "price": 55.0
+      },
+      {
+        "id": 1,
+        "title": "Charge-f4171022",
+        "stockLeft": 3,
+        "price": 55.0
+      },
+      {
+        "id": 1,
+        "title": "Charge-f4171022",
+        "stockLeft": 0,
+        "price": 55.0
+      },
+      {
+        "id": 1,
+        "title": "Charge-f4171022",
+        "stockLeft": 2,
+        "price": 55.0
+      },
+      {
+        "id": 1,
+        "title": "Charge-f4171022",
+        "stockLeft": 1,
+        "price": 55.0
+      }
+    ]
+  },
+  "responses": [
+    {
+      "status": 200,
+      "body": {
+        "id": 1,
+        "title": "Charge-f4171022",
+        "stockLeft": 9,
+        "price": 55.0
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 1,
+        "title": "Charge-f4171022",
+        "stockLeft": 7,
+        "price": 55.0
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 1,
+        "title": "Charge-f4171022",
+        "stockLeft": 4,
+        "price": 55.0
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 1,
+        "title": "Charge-f4171022",
+        "stockLeft": 8,
+        "price": 55.0
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 1,
+        "title": "Charge-f4171022",
+        "stockLeft": 5,
+        "price": 55.0
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 1,
+        "title": "Charge-f4171022",
+        "stockLeft": 6,
+        "price": 55.0
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 1,
+        "title": "Charge-f4171022",
+        "stockLeft": 3,
+        "price": 55.0
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 1,
+        "title": "Charge-f4171022",
+        "stockLeft": 0,
+        "price": 55.0
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 1,
+        "title": "Charge-f4171022",
+        "stockLeft": 2,
+        "price": 55.0
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "id": 1,
+        "title": "Charge-f4171022",
+        "stockLeft": 1,
+        "price": 55.0
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    },
+    {
+      "status": 409,
+      "body": {
+        "error": "Plus d'exemplaires"
+      }
+    }
+  ]
+}
